@@ -1,13 +1,19 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                            |\              */
-/*   one.c                                              ------| \----         */
+/*   palindrome_measure_normal.c                        ------| \----         */
 /*                                                      |    \`  \  |  p      */
 /*   By: cshepard6055 <cshepard6055@floridapoly.edu>    |  \`-\   \ |  o      */
 /*                                                      |---\  \   `|  l      */
 /*   Created: 2017/11/18 17:31:15 by cshepard6055       | ` .\  \   |  y      */
-/*   Updated: 2017/11/20 23:01:10 by cshepard6055       -------------         */
+/*   Updated: 2017/11/20 23:09:19 by cshepard6055       -------------         */
 /*                                                                            */
+/* ************************************************************************** */
+
+/* ************************************************************************** */
+/* In this version of the program, i within strl is instantiated.             */
+/* The i and l parameters within vi are properly typed as ints.               */
+/* Practical code revisions are possible.                                     */
 /* ************************************************************************** */
 
 #include <stdio.h>
